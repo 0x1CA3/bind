@@ -1,5 +1,3 @@
-# bind
-A bind-shell written in C.
 <h1 align="center">
 	<img src="https://img.icons8.com/cotton/2x/rope.png" width="150px"><br>
     bind - A bind-shell written in C.
