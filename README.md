@@ -14,3 +14,27 @@
     	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
      </a>
 </p>
+
+## Setup
+```
+gcc -o bind bind.c
+```
+
+## Configuring Ports
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+
+#define PORT 6965 // <- Go to this line in the file and change your port, if you want!
+```
+
+## Credits
+```
+https://github.com/0x1CA3
+```
+
+### Contributions 🎉
+###### All contributions are accepted, simply open an Issue / Pull request.
