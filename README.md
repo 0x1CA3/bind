@@ -18,6 +18,7 @@
 ## Setup
 ```
 gcc -o bind bind.c
+./bind
 ```
 
 ## Configuring Ports
